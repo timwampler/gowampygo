@@ -1,0 +1,6 @@
+console.log("hello world)
+//cmd ? highlighted : comment out
+/*slkd
+sjlk;
+askj*/
+//console.log is a great tool to debug later down the line. For now we're going to use it as a 
